@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Random Talk"
-  text: "While experiencing it so true, remember it.｜历经的过往，权当作笑谈罢了。"
-  tagline: My great project tagline
+  text: "历经的过往，权当作笑谈罢了。"
+  tagline: DannyFeng的随笔记
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,9 +15,9 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 从这里开始吧
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 为什么开始开发了呢
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
