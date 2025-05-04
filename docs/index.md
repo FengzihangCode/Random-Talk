@@ -8,18 +8,18 @@ hero:
   tagline: DannyFeng的随笔记
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 从头开始翻翻
       link: /markdown-examples
     - theme: alt
       text: API Examples
       link: /api-examples
 
 features:
-  - title: 从这里开始吧
+  - title: 一些随手记下的事
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 为什么开始开发了呢
+  - title: 一些有感而发的字
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 一些从何而起的梦
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
