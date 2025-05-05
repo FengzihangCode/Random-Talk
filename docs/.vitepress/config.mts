@@ -2,13 +2,14 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'zh-CN',
   title: "Random Talk",
   description: "While experiencing it so true, remember it.｜历经的过往，权当作笑谈罢了。",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '随笔记', link: '/markdown-examples' }
+      { text: '随笔记', link: '/Bonjour/Bonjour.md' }
     ],
 
     sidebar: [
